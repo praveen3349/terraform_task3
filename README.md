@@ -1,5 +1,7 @@
 ## Provisioning a Local Docker Container using Terraform
 
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/8973ae1c-8d08-4030-844c-c60970c87554" />
+
 **1. Install Docker Desktop on Windows**
 
 Ensure Docker is running and accessible via PowerShell.
